@@ -1,5 +1,7 @@
 #
-## Add below the list of addresses that should be whitelisted
+## Add below the list of addresses that should be whitelisted.
 #
+!office-g.events.data.microsoft.com
+!
 office-g.events.data.microsoft.com
 teams.events.data.microsoft.com
